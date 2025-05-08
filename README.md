@@ -22,21 +22,6 @@
 | AI Integration| OpenAI GPT-3.5 API            |
 | Auth (optional)| Clerk.dev / Auth.js          |
 
-/app # Frontend components, pages, and routing
-/leads # Lead management views
-/campaigns # Campaign-related views
-/dashboard # Lead tracking dashboard
-
-/api # Backend API routes
-/email # Email API logic (send, schedule, etc.)
-/whatsapp # WhatsApp automation logic
-/ai-generate # AI integration for message generation
-
-/lib # Utility functions and helper scripts
-openai.js # OpenAI API logic for AI message generation
-email.js # Email utility functions (sending, formatting)
-whatsapp.js # WhatsApp API utility functions (sending messages)
-
 
 ## 📌 Project Status
 
